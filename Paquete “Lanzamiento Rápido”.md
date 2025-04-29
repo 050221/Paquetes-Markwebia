@@ -32,6 +32,11 @@
 - 🔒 **Certificado SSL** para seguridad y confianza 
 - 🔄 **1 ronda de cambios**: ajustes tras tu primer vistazo.
 
+
+---
+## 🛎️ Aviso de contenido
+El cliente proporcionará el contenido textual y multimedia (imágenes); de lo contrario, se cobrará un extra por la generación de dicho contenido.
+
 ---
 
 ## 📅 Plazos & 💰 Precio
@@ -89,11 +94,16 @@ Negocios en crecimiento que necesitan más secciones y un toque **profesional**.
 - 🔍 **SEO básico**: etiquetas optimizadas para **Google**.  
 - 🌐 **Dominio + Hosting (1er año)**: tu propio `www.tusitio.com`.  
 - 🔗 **Código QR**: generamos un QR que lleva directo a tu sitio.  
+
 - 📧 **Correos personalizados**: cuentas de email con tu propio dominio (ej. tú@tusitio.com).
 - 🔒 **Certificado SSL** para seguridad y confianza
 - 🔄 **1 ronda de cambios**: ajustes tras tu primer vistazo.
 - 🛠️ **2 meses de mantenimiento**: actualizaciones y despliegue automático  
 
+
+---
+## 🛎️ Aviso de contenido
+El cliente proporcionará el contenido textual y multimedia (imágenes); de lo contrario, se cobrará un extra por la generación de dicho contenido.
 
 ---
 
